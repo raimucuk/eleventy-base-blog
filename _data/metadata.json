@@ -1,20 +1,20 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://example.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "title": "a-gyermek-teljes-film-magyarul-online-videahu",
+  "url": "https://www.teljesfilm.centralcalurisa.org/",
+  "description": "A legjobb oldal teljes film online megtekintéséhez magyarul. Ingyenes és hirdetések nélkül. Online film magyarul, videa teljes film magyarul, film letöltés magyarul",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "A legjobb oldal teljes film online megtekintéséhez magyarul. Ingyenes és hirdetések nélkül. Online film magyarul, videa teljes film magyarul, film letöltés magyarul.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://example.com/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://example.com/feed/feed.json"
+    "url": "https://www.teljesfilm.centralcalurisa.org/"
   },
   "author": {
     "name": "Your Name Here",
     "email": "youremailaddress@example.com",
-    "url": "https://example.com/about-me/"
+    "url": "https://www.teljesfilm.centralcalurisa.org/"
   }
 }
